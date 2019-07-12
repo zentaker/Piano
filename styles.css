@@ -1,0 +1,12 @@
+body {
+	background-color: #ffc;
+	text-align: center; /* para centrar las teclas en el centro*/
+	line-height: 100vh; /* para poder utilizar vertical align es nesesario darle una altura a la etiqueta padre */
+	margin: 0; /* le coloca un scroll para desaparecerlo se le da margen 0 - paresca una aplicacion*/
+}
+
+button {
+	vertical-align: middle; /* para poder centrar la teclas en el medio de la pantalla */
+	width: 100px;
+	height: 400px;
+}

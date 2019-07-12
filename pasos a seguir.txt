@@ -1,0 +1,4 @@
+1- conseguir recursos nesesarios 
+2- definir un diseño 
+3- escribir el algoritmos (2 eventos)
+4- hacer pruebas y corregir hasta finalizar nuestra app
